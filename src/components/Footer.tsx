@@ -99,7 +99,7 @@ const Footer = () => {
             </p>
             <div className="mt-4 md:mt-0">
               <p className="text-gray-400 text-sm">
-                Designed with <span className="text-cricket-red">❤</span> for cricket fans
+                Designed with <span className="text-cricket-red">❤</span> for cricket fans by CodeWithSharp 
               </p>
             </div>
           </div>
