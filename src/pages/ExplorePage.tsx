@@ -12,7 +12,7 @@ const sampleImages = [
   {
     id: 1,
     title: 'Final Match Celebration',
-    imageUrl: 'src/pages/images/virat4.jpg',
+    imageUrl: './virat4.jpg',
     isPremium: true,
     price: 5.99,
     category: 'Team Celebrations',
