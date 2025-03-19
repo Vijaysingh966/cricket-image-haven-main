@@ -12,7 +12,7 @@ const sampleImages = [
   {
     id: 1,
     title: 'Final Match Celebration',
-    imageUrl: 'https://drive.google.com/file/d/1pJRDSJALyDRYr590vopz3dJmtKT8ofkA/view?usp=sharing',
+    imageUrl: 'https://res.cloudinary.com/dv7cxq4fy/image/upload/v1742418938/virat4_gimsts.jpg',
     isPremium: true,
     price: 5.99,
     category: 'Team Celebrations',
