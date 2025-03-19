@@ -12,7 +12,7 @@ const sampleImages = [
   {
     id: 1,
     title: 'Final Match Celebration',
-    imageUrl: 'images/virat1.jpg',
+    imageUrl: '/virat4.jpg',
     isPremium: true,
     price: 5.99,
     category: 'Team Celebrations',
@@ -30,7 +30,7 @@ const sampleImages = [
     title: 'Indan Team',
     imageUrl: 'images/team1.jpg',
     isPremium: true,
-    price: 0,
+    price: 10,
     category: 'Stadium Views',
   },
   {
