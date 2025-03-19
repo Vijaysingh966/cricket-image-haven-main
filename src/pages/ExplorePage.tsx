@@ -51,7 +51,7 @@ const sampleImages = [
   },
   {
     id: 6,
-    title: 'Team Huddle',
+    title: 'The Best Team ',
     imageUrl: 'images/team3.jpg',
     isPremium: false,
     price: 7.99,
@@ -62,7 +62,7 @@ const sampleImages = [
     title: 'Critical Moment',
     imageUrl: 'images/team4.jpg',
     isPremium: false,
-    price: 0,
+    price: 9.00,
     category: 'Match Highlights',
   },
   {
@@ -70,7 +70,7 @@ const sampleImages = [
     title: 'Trophy Ceremony',
     imageUrl: 'images/virat_team.jpg',
     isPremium: true,
-    price: 8.99,
+    price: 89.00,
     category: 'Team Celebrations',
   },
   {
@@ -86,15 +86,15 @@ const sampleImages = [
     title: 'Cricket Close-up',
     imageUrl: 'images/virat_team2.jpg',
     isPremium: true,
-    price: 0,
+    price: 8.0,
     category: 'Vintage Classics',
   },
   {
     id: 11,
-    title: 'Cricket Close-up',
+    title: 'Cricket Club',
     imageUrl: 'images/virat_team3.jpg',
     isPremium: true,
-    price: 0,
+    price: 9.00,
     category: 'Vintage Classics',
   },
   {
@@ -102,7 +102,7 @@ const sampleImages = [
     title: 'KL.Rahul',
     imageUrl: 'images/kl.jpg',
     isPremium: false,
-    price: 0,
+    price:20.00,
     category: 'Vintage Classics',
   },
   {
@@ -110,7 +110,7 @@ const sampleImages = [
     title: 'Rohit Sharma',
     imageUrl: 'images/rohit.jpg',
     isPremium: true,
-    price: 0,
+    price: 32.00,
     category: 'Vintage Classics',
   },
 ];
