@@ -20,7 +20,7 @@ const sampleImages = [
   {
     id: 2,
     title: 'Perfect Batting Stance',
-    imageUrl: 'images/viratrohit1.jpg',
+    imageUrl: '/images/viratrohit1.jpg',
     isPremium: true,
     price: 4.99,
     category: 'Match Highlights',
