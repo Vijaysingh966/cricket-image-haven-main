@@ -52,20 +52,20 @@ const CTASection = () => {
               {
                 id: 1,
                 title: "Starter Pack",
-                price: "₹1,249",
+                price: "₹100",
                 features: ["10 HD images", "30 days access", "Personal use"],
               },
               {
                 id: 2,
                 title: "Pro Pack",
-                price: "₹2,499",
+                price: "₹240",
                 features: ["30 HD images", "60 days access", "Commercial license"],
                 highlighted: true,
               },
               {
                 id: 3,
                 title: "Team Pack",
-                price: "₹4,199",
+                price: "₹400",
                 features: ["100 HD images", "90 days access", "Extended license"],
               },
             ].map((pack, index) => (

@@ -12,7 +12,7 @@ const sampleImages = [
   {
     id: 1,
     title: 'Final Match Celebration',
-    imageUrl: 'https://images.pexels.com/photos/3628912/pexels-photo-3628912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    imageUrl: 'images/virat1.jpg',
     isPremium: true,
     price: 5.99,
     category: 'Team Celebrations',
@@ -20,7 +20,7 @@ const sampleImages = [
   {
     id: 2,
     title: 'Perfect Batting Stance',
-    imageUrl: 'https://images.pexels.com/photos/3659610/pexels-photo-3659610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    imageUrl: 'images/viratrohit1.jpg',
     isPremium: true,
     price: 4.99,
     category: 'Match Highlights',
